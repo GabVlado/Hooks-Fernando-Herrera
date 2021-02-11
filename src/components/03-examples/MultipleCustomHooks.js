@@ -37,7 +37,9 @@ const MultipleCustomHooks = () => {
 
             <button 
                 className="btn  btn-primary"
-                onClick={increment}
+                onClick={increment
+                
+                }
             >
                 Siguiente Frase
             </button>
