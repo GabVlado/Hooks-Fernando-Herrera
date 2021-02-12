@@ -49,4 +49,4 @@ const MultipleCustomHooks = () => {
     )
 }
 
-export default MultipleCustomHooks
+export default MultipleCustomHooks;
